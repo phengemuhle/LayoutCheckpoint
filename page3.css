@@ -1,0 +1,29 @@
+body{
+    margin: 5%;
+}
+.container{
+    border: 1px solid;
+    padding: 2%;
+}
+.picsize{
+    width: 200px;
+    height: 200px;
+    
+}
+.piclocal{
+    padding: 2%;
+    align-items: center;
+}
+.piclocal img{
+    margin: 5%;
+}
+.links{
+    padding: 3%;
+   
+}
+a {
+     border:1px solid;
+     margin: 1%;
+     text-align: center;
+     padding: 1px;
+}

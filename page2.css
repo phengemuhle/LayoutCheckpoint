@@ -1,0 +1,28 @@
+
+.container {   
+    border:1px solid;
+    text-align: center;  
+    padding: 2%;  
+}
+.imgs {
+    height: 150px;
+    width: 150px;
+}
+.picbox{
+    border: 1px solid;
+}
+.header{
+    font-size: 60px;
+    text-align: center;
+}
+.pics{
+
+}
+.textbox{
+    border:1px solid;
+    margin: auto;
+    padding: 20px;
+}
+body{
+    padding: 20px;
+}
